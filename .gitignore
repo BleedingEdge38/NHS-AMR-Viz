@@ -1,0 +1,7 @@
+# Ignore all Word docs by default
+*.docx
+
+# (Optional) Ignore other common junk
+~$*.docx
+.DS_Store
+Thumbs.db
