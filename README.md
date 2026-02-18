@@ -10,18 +10,18 @@
 
 ## Table of Contents
 
-- [Project Overview](#-project-overview)
-- [Live Dashboards](#-live-dashboards)
-- [Business Problem](#-business-problem)
-- [Key Statistics](#-key-statistics)
-- [Dual-Audience Design Strategy](#-dual-audience-design-strategy)
+- [Project Overview](#project-overview)
+- [Live Dashboards](#live-dashboards)
+- [Business Problem](#business-problem)
+- [Key Statistics](#key-statistics)
+- [Dual-Audience Design Strategy](#dual-audience-design-strategy)
   - [Dashboard 1 — Public (International News Organisation)](#dashboard-1--public-international-news-organisation)
   - [Dashboard 2 — Internal (NHS Country Directors)](#dashboard-2--internal-nhs-country-directors)
-- [Data Sources & Preparation](#-data-sources--preparation)
-- [Key Findings](#-key-findings)
-- [Design Principles](#-design-principles)
-- [Strategic Recommendations](#-strategic-recommendations)
-- [Limitations & Future Work](#️-limitations--future-work)
+- [Data Sources & Preparation](#data-sources--preparation)
+- [Key Findings](#key-findings)
+- [Design Principles](#design-principles)
+- [Strategic Recommendations](#strategic-recommendations)
+- [Limitations & Future Work](#️limitations--future-work)
 
 ---
 
